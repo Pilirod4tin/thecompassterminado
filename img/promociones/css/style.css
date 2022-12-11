@@ -1,0 +1,79 @@
+body{
+	font-family: CalifornianFB;
+	font-size: 14px;
+	color: #F8A954;
+	Background-image:url("../img/image_6483441 (1).JPG");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 300px;
+	background:fixed;
+}
+header{
+background-color: #3493C3;
+}
+header{
+	padding: 15px 0;
+	border-bottom: 1px solid #efefef; 
+}
+#hero {
+	background-color: #3493C3;
+	padding: 50px 0;
+}
+
+
+.section{
+	padding: 60px 0;
+}
+
+.img-hero{
+	height: 500px;
+	width: 270px;
+	margin: 0 30%;
+}
+.hero-info{
+	padding: 98px 30px;
+}
+
+
+.titulo{
+	margin: 20px 0;
+	color: #FFFFFF;
+	font-size: 50px;
+	font-weight: 600px;
+}
+
+#hero h2{
+	font-size: 30px;
+	color: #dbdce4;
+	font-weight: 200;
+}
+p {
+	margin: 10px 0;
+	color:#FFFFFF;
+	font-size: 15px;
+}
+.btn-dorado{
+	padding: 10px 30px;
+	background-color: #dbdce4;
+	border-radius: 50px;
+	color: #09090d;
+	font-weight: 600;
+	letter-spacing: 0.5mm;
+	margin: 20px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
